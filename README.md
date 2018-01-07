@@ -1,3 +1,3 @@
-# Click Count application
+# Hand’s On Build Container
 
-[![Build Status](https://travis-ci.org/xebia-france/click-count.svg)](https://travis-ci.org/xebia-france/click-count)
+[![Build Status](https://travis-ci.org/jlrigau/xke-build-container.svg)](https://travis-ci.org/jlrigau/xke-build-container)
